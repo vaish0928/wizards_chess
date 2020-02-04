@@ -1,5 +1,6 @@
 # Wizard's Chess  
 Video: https://drive.google.com/file/d/1_zchUfMTgxjol2N3LhLYc-0mLLN2PczU/view?usp=sharing
+
 Our Wizards’ Chess magically moves chess pieces through voice command 
 
 Just like the chess board in Harry Potter, our chess game listens for speech-recognized chess commands and moves the pieces accordingly. 
